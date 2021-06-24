@@ -6,6 +6,8 @@ The app fetches weather information about city the user has input.
 
 It fetches temperature, wind and rain of certain time periods each day in a 7-day period, and also calculates the "best" period to go outside with an index combining the three values, where high temperature, low rain and low wind gives a higher score.
 
+The app will also select an appropriate weather icon to display depending on the type of weather for the specific day.
+
 ## Requirements
 Python 3.8.5+
 
