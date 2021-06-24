@@ -13,7 +13,7 @@ Python 3.8.5+
 ```
 pip install -r requirements.txt
 ```
-2. Run app.py
+2. Run app.py in VSCode or your favourite code editor
 
 3. Go to http://localhost:5000 in your browser
 
