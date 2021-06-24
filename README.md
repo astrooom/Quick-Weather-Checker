@@ -1,9 +1,10 @@
 # Quick-Weather-Checker
-Simple Flask app using the openweathermap (https://openweathermap.org/api) api.
+Simple Flask app using the openweathermap api.
+(https://openweathermap.org/api)
 
-The app fetches weather information about the user-inputted city.
+The app fetches weather information about city the user has input.
 
-It fetches temperature, wind, rain of time periods, and also calculates the "best" period to go outside with an index combining the three values.
+It fetches temperature, wind and rain of certain time periods each day in a 7-day period, and also calculates the "best" period to go outside with an index combining the three values, where high temperature, low rain and low wind gives a higher score.
 
 ## Requirements
 Python 3.8.5+
