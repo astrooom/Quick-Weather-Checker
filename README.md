@@ -1,5 +1,5 @@
 # Quick-Weather-Checker
-Simple Flask app using the openweathermap api.
+Super simple Flask app using the openweathermap API.
 (https://openweathermap.org/api)
 
 The app fetches weather information about city the user has input.
